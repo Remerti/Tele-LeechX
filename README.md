@@ -1,8 +1,3 @@
-```diff
-+ Repo ReBorn !!
-+ Awesome Features Soon !!
-```
-
 <kbd>
   <a href="https://t.me/FXTorrentz"><img src="https://te.legra.ph/file/c569246c04ae797c66822.jpg"></a>
 </kbd>
